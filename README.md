@@ -1,5 +1,6 @@
-## Olá sou o Thiago Reis !!!
-#### Sou estudante de análise e desenvolvimento de sistemas e tenho como objetivo atuar na área de desenvolvimento de sistemas e me tornar um programador especialista JAVA, para isto estou estudando Java, Angular, Python, C#, .NET, DBA e outras linguagens afim de conhecimento, porém com foco no desenvolvimento Java. Usarei meu perfil para postar meus projetos desenvolvidos e em desenvolvimento ao longo de meus cursos, bootcamp's e faculdade !!!
+## Olá sou Thiago Reis !!!
+#### Sou graduado em análise e desenvolvimento de sistemas e tenho como objetivo atuar na área de desenvolvimento de sistemas e me tornar um programador especialista Fullstack para isto estou tenho estudado e colocado em prática projetos realizados utilizando algumas tecnogias como Java, Springboot, Javascript, Angular, SQL, HTML, CSS e outras linguagens afim de conhecimento, porém com foco no desenvolvimento Angular / Java. Usarei meu perfil para postar meus projetos desenvolvidos e em desenvolvimento ao longo de meus cursos, bootcamp's e faculdade e também projetos pessoais !!!
+
  
  <div>
   <a href="https://github.com/Thiagoreis9">
