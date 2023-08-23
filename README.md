@@ -1,8 +1,9 @@
-## Olá sou Thiago Reis !!!
-#### Sou graduado em análise e desenvolvimento de sistemas e tenho como objetivo atuar na área de desenvolvimento de sistemas e me tornar um programador especialista Fullstack para isto estou tenho estudado e colocado em prática projetos realizados utilizando algumas tecnogias como Java, Springboot, Javascript, Angular, SQL, HTML, CSS e outras linguagens afim de conhecimento, porém com foco no desenvolvimento Angular / Java. Usarei meu perfil para postar meus projetos desenvolvidos e em desenvolvimento ao longo de meus cursos, bootcamp's e faculdade e também projetos pessoais !!!
+## Olá sou o Thiago Reis !!!
+#### Sou um apaixonado Desenvolvedor Front-end, dedicado a trazer vida às interfaces digitais com criatividade e funcionalidade. Minha jornada começou durante minha graduação em Analise e Desenvolvimento de Sistemas na Universidade Planalto do Distrito Federal, onde mergulhei profundamente na arte do desenvolvimento web. Com proficiência em HTML, CSS, JavaScript, Typescript, SQL, NODEJS, React e Angular, estou empenhado em criar experiências de usuário excepcionais.
+#### Além das habilidades técnicas, minhas soft skills, como comunicação eficaz e capacidade de resolução de problemas, me destacam como um membro valioso de equipes. Estou constantemente explorando novas tendências no mundo do Front-end, especialmente focado em otimização de desempenho, acessibilidade e design responsivo.
 
  
- <div>
+<div>
   <a href="https://github.com/Thiagoreis9">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Thiagoreis9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoreis9&layout=compact&langs_count=7&theme=dark"/>
@@ -11,11 +12,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Jv" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
   
